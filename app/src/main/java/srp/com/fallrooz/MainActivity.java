@@ -29,6 +29,7 @@ import static srp.com.fallrooz.util.Global.iranSans;
 
 public class MainActivity extends AppCompatActivity {
 
+
     private UinfoDb uinfoDb;
     public static ResideMenu resideMenu;
     private boolean doubleBackToExitPressedOnce = false;
