@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="colors">
+        <item>صورتی</item>
+        <item>قرمز</item>
+        <item>زرد</item>
+        <item>طلایی</item>
+        <item>نیلی</item>
+        <item>سبز</item>
+        <item>بنفش</item>
+        <item>آبی</item>
+        <item>نارنجی</item>
+    </string-array>
+
+
+</resources>

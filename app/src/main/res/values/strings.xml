@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">فال روز</string>
+
+    <string name="dsv_ex_msg_dont_set_lm">You should not set LayoutManager on DiscreteScrollView.class instance. Library uses a special one. Just don\'t call the method.</string>
+    <string name="dsv_ex_msg_adapter_wrong_recycler">InfiniteScrollAdapter is supposed to work only with DiscreteScrollView</string>
+
+    <string name="pishgoftar">ای حافظ شیرازی! تو محرم هر رازی!
+\n
+تو را به خدا و به شاخ نباتت قسم می دهم
+\n
+که هر چه صلاح و مصلحت می بینی برایم آشکار و
+\n
+آرزوی مرا براورده سازی.
+\n\n
+ابتدا نيت كنيد
+\n
+سپس براي شادي روح حضرت حافظ يك صلوات بفرستيد
+\n
+حالا بروی عکس زیر کلیک کنید.
+    </string>
+
+</resources>
